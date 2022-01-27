@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841792493625",
+    "project_id": "teylour-s-petcare-app",
+    "storage_bucket": "teylour-s-petcare-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841792493625:android:2923ab8d9dda2ebc7915e8",
+        "android_client_info": {
+          "package_name": "com.mdgsdc.teylour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841792493625-2ugtqkq6m9rpljphhpu6r5932uu9quf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8yhabm4pNR4fnaZlBt_FZlY5t4RVP1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841792493625-2ugtqkq6m9rpljphhpu6r5932uu9quf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
