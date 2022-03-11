@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1071845763488",
+    "project_id": "rob-midterm",
+    "storage_bucket": "rob-midterm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071845763488:android:ccffd544c7f1899e29dcc5",
+        "android_client_info": {
+          "package_name": "com.example.robmidterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071845763488-2gqtqghgqlkv7gubffhuag2a2v8k0njn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpLpgLzTDAzKaW2_YK5SRWp2IVbowxuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071845763488-2gqtqghgqlkv7gubffhuag2a2v8k0njn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071845763488-f4u9no4galcme0hb15ngsnh7vs72npnv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mdsdc.midterm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
